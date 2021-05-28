@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "888335744175",
+    "project_id": "thuchanhonlineapi",
+    "storage_bucket": "thuchanhonlineapi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888335744175:android:3b219272b46237c466685a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888335744175-1iuaimk4tf2oj4j2pqt4tdjfi970n2fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqQb5GZtD3xI7PzVHzjLzEyKLFl7gNhe0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888335744175-1iuaimk4tf2oj4j2pqt4tdjfi970n2fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
